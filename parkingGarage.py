@@ -1,2 +1,0 @@
-class parking_garage():
-
